@@ -6,7 +6,6 @@ const App = () => {
   return (
     <Fragment>
         <FormBuilder />
-        <Button>Submit</>
     </Fragment>
   );
 };
