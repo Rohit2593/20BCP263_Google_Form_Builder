@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/20BCP263_Google_Form_Builder/static/css/main.fb53b09a.css",
+    "main.js": "/20BCP263_Google_Form_Builder/static/js/main.47c3fed3.js",
+    "static/media/icon-plus-gray.svg": "/20BCP263_Google_Form_Builder/static/media/icon-plus-gray.4813505451ce489532e3.svg",
+    "index.html": "/20BCP263_Google_Form_Builder/index.html",
+    "static/media/icon-minus-gray.svg": "/20BCP263_Google_Form_Builder/static/media/icon-minus-gray.fedf0680e4cc60b17e14.svg",
+    "main.fb53b09a.css.map": "/20BCP263_Google_Form_Builder/static/css/main.fb53b09a.css.map",
+    "main.47c3fed3.js.map": "/20BCP263_Google_Form_Builder/static/js/main.47c3fed3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb53b09a.css",
+    "static/js/main.47c3fed3.js"
+  ]
+}
