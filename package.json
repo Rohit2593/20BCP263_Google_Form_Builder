@@ -1,6 +1,7 @@
 {
   "name": "react-form-builder",
   "version": "0.1.0",
+  "homepage": "https://rohit2593.github.io/20BCP263_Google_Form_Builder",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.4.0",
@@ -20,6 +21,8 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
@@ -44,6 +47,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.0.0",
     "react-app-rewire-alias": "^1.0.3",
     "react-app-rewired": "^2.1.8"
   }
